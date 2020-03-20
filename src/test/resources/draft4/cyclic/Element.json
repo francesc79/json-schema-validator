@@ -1,5 +1,5 @@
 {
-  "id": "/draft4/cyclic/Element",
+  "id": "Element.json",
   "type": "object",
   "datatype": true,
   "category": "fhir",
