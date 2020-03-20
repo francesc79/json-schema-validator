@@ -5,12 +5,12 @@
   "category": "fhir",
   "properties": {
     "element": {
-      "$ref": "/draft4/cyclic/Element"
+      "$ref": "Element.json"
     },
     "extension": {
       "type": "array",
       "items": {
-        "$ref": "/draft4/cyclic/Extension"
+        "$ref": "Extension.json"
       }
     }
   },

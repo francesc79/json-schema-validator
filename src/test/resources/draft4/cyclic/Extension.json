@@ -9,7 +9,7 @@
       "format": "url"
     },
     "valueElement": {
-      "$ref": "/draft4/cyclic/Element"
+      "$ref": "Element.json"
     }
   },
   "additionalProperties": false,

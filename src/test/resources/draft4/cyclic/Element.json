@@ -11,7 +11,7 @@
     "extension": {
       "type": "array",
       "items": {
-        "$ref": "/draft4/cyclic/Extension"
+        "$ref": "Extension.json"
       }
     }
   },
